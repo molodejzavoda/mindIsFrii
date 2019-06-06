@@ -1,2 +1,4 @@
 # mindIsFrii
 minjet
+isntIt
+Stop
